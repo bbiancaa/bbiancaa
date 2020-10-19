@@ -27,8 +27,8 @@
 
 
 ## Languages
-<img src="python.svg" alt=Python width="30">
-<img src="c.svg" alt=C width="30">
+<a><img src="python.svg" alt=Python width="30"></a>
+<a>img src="c.svg" alt=C width="30"></a>
 <img src="java.svg" alt=Java width="30">
 <img src="html.svg" alt=HTML5 width="30">
 <img src="css.svg" alt=CSS width="30">
