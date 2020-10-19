@@ -1,10 +1,10 @@
 # Hello World 🖖
 
-<img align="right" src="cat.gif" width=250px">
+<img align="right" src="cat.gif" width="250px">
 
 *****
 
-## 🏃 Who I am
+## Who I am
 - 👩🏼 My name's Bianca and I'm 18 years old
 - 👩🏼‍💻 Currently I'm an undergradute Computer Science student at UFFS
 - 🤖 I'm really passionate about technology
@@ -13,7 +13,7 @@
 - 🎮 I really enjoy playing games, although I'm really bad on them
 
 
-##How to reach me
+## How to reach me
 <a href= "https://www.facebook.com/bianca.gabriela.359126/"><img src="facebook.png" height="45px" alt="Facebook"/></a>
 <a href= "https://www.instagram.com/_biancagabriela/?hl=pt-br"><img src="instagram.jpg" height="40px" alt="Instagram"/></a>
 <a href= "https://twitter.com/damnchandelier"><img src="twitter.jpg" height="40px" alt="Twitter"/></a>
@@ -26,12 +26,12 @@
 
 
 
-## 👨‍💻 Languages
-<img src="python.svg"alt=Python width="30">
+## Languages
+<img src="python.svg" alt=Python width="30">
 <img src="c.svg" alt=C width="30">
 <img src="java.svg" alt=Java width="30">
 <img src="html.svg" alt=HTML5 width="30">
 <img src="css.svg" alt=CSS width="30">
-<img src="jss.svg"alt=JavaScrypt width="30">
+<img src="jss.svg" alt=JavaScrypt width="30">
   
 #Thats all, folks!
