@@ -20,18 +20,16 @@
 <a href= "https://web.telegram.org/biancagabriela"><img src="telegram.svg" height="40px" alt="Telegram"/></a>
 
 
-
 ## Hobbies
   On my free time I spend a lot of hours reading fantasy and science fiction books, watching series and animes and playing badly League of Legends.
 
 
-
 ## Languages
 <a><img src="python.svg" alt=Python width="30"></a>
-<a>img src="c.svg" alt=C width="30"></a>
-<img src="java.svg" alt=Java width="30">
-<img src="html.svg" alt=HTML5 width="30">
-<img src="css.svg" alt=CSS width="30">
-<img src="jss.svg" alt=JavaScrypt width="30">
+<a><img src="c.svg" alt=C width="30"></a>
+<a><img src="java.svg" alt=Java width="30"></a>
+<a><img src="html.svg" alt=HTML5 width="30"></a>
+<a><img src="css.svg" alt=CSS width="30"></a>
+<a><img src="jss.svg" alt=JavaScrypt width="30"></a>
   
 #Thats all, folks!
