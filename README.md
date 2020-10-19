@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**bbiancaa/bbiancaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hello World 🖖
 *****
 <img align="right" src="cat.gif" width=250px">
