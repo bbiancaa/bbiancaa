@@ -26,10 +26,10 @@
 
 ## Languages
 <a><img src="python.svg" alt=Python width="50"></a>
-<a><img src="c.svg" alt=C width="30"></a>
-<a><img src="java.svg" alt=Java width="30"></a>
-<a><img src="html.svg" alt=HTML5 width="30"></a>
-<a><img src="css.svg" alt=CSS width="30"></a>
-<a><img src="jss.svg" alt=JavaScrypt width="30"></a>
+<a><img src="c.svg" alt=C width="50"></a>
+<a><img src="java.svg" alt=Java width="50"></a>
+<a><img src="html.svg" alt=HTML5 width="50"></a>
+<a><img src="css.svg" alt=CSS width="50"></a>
+<a><img src="jss.svg" alt=JavaScrypt width="50"></a>
   
 # Thats all, folks!
