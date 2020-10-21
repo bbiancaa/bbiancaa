@@ -8,7 +8,7 @@
 - 👩🏼 My name's Bianca and I'm 18 years old
 - 👩🏼‍💻 Currently I'm an undergradute Computer Science student at UFFS
 - 🤖 I'm really passionate about technology
-- 💜 I'm an enthusiastic about languages and cultures, and currently I'm learning english and spanish
+- 💜 I'm an enthusiastic about languages and cultures, and currently I'm studying english and spanish
 - 🖖 I'm totally in geek culture
 - 🎮 I really enjoy playing games, although I'm really bad on them
 
@@ -32,4 +32,4 @@
 <a><img src="css.svg" alt=CSS width="50"></a>
 <a><img src="jss.svg" alt=JavaScrypt width="50"></a>
   
-# Thats all, folks!
+# That's all, folks!
