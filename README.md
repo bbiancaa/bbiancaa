@@ -17,7 +17,7 @@
 <a href= "https://www.facebook.com/bianca.gabriela.359126/"><img src="facebook.svg" height="40px" alt="Facebook"/></a>
 <a href= "https://www.instagram.com/_biancagabriela/?hl=pt-br"><img src="insta.png" height="40px" alt="Instagram"/></a>
 <a href= "https://twitter.com/damnchandelier"><img src="twitter.png" height="40px" alt="Twitter"/></a>
-<a href= "https://web.telegram.me/biancagabriela"><img src="telegram.svg" height="40px" alt="Telegram"/></a>
+<a href= "https://t.me/biancagabriela"><img src="telegram.svg" height="40px" alt="Telegram"/></a>
 
 
 ## Hobbies
