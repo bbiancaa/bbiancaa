@@ -6,7 +6,7 @@
 
 ## Who am I
 - 👩🏼 My name's Bianca and I'm 19 years old
-- 👩🏼‍💻 Currently I'm an undergradute Computer Science student at UFFS
+- 👩🏼‍💻 Currently I'm an undergradute Computer Science student at UFFS and an web development intern
 - 🤖 I'm really passionate about technology
 - 💜 I'm an enthusiastic about languages and cultures, and currently I'm studying english and spanish
 
