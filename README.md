@@ -6,12 +6,8 @@
 
 ## Who am I
 - 👩🏼 My name's Bianca and I'm 19 years old
-- 👩🏼‍💻 Currently I'm an undergradute Computer Science student at UFFS and an web development intern
-- 🤖 I'm really passionate about technology
-- 💜 I'm an enthusiastic about languages and cultures, and currently I'm studying english and spanish
-
-## Hobbies
-  On my free time I spend a lot of hours reading fantasy and science fiction books, watching series and animes and playing badly League of Legends.
+- 👩🏼‍💻 Currently I'm an undergradute Computer Science student at UFFS and an Web Development intern
+- 🤖 On my free time I spend a lot of hours reading books, watching series and animes and playing badly league of legends
 
 ## Languages I'm familiar with
 <a><img src="python.svg" alt=Python width="50"></a>
