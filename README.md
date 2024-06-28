@@ -5,7 +5,7 @@ I'm a Computer Science undergraduate student at Federal University of Fronteira 
 I work as a Front-End Developer using agile methodologies (SCRUM) and developing in HTML, CSS, Javascript, Typescript and React, using Git for code separation and versioning.
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=monicahillman&count_private=true&show_icons=true&theme=radical" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bbiancaa&count_private=true&show_icons=true&theme=radical" /> </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width='50px'/>
